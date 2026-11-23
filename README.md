@@ -86,6 +86,8 @@ This process helped investigate admission activity involving patients with multi
 - Winter admissions by age group.
 - Identification of departments and age groups contributing most to winter admissions.
 
+- 
+
 ## Key Performance Indicators
 
 | KPI | Result |
