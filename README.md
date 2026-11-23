@@ -67,7 +67,9 @@ This process helped investigate admission activity involving patients with multi
 - Department and patient demographic breakdowns.
 - 2025 monthly admissions forecast with confidence intervals.
 
-- 
+- <img width="1206" height="670" alt="image" src="https://github.com/user-attachments/assets/c02bcdc9-0fe7-49c7-9fa0-a13a0b54133a" />
+
+
 
 ### 2. 2024 Admissions Analysis
 - Analysis of 2024 admission volumes.
