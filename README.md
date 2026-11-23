@@ -67,6 +67,8 @@ This process helped investigate admission activity involving patients with multi
 - Department and patient demographic breakdowns.
 - 2025 monthly admissions forecast with confidence intervals.
 
+- 
+
 ### 2. 2024 Admissions Analysis
 - Analysis of 2024 admission volumes.
 - Department-level admission comparisons.
